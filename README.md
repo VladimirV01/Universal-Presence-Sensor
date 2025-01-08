@@ -3,6 +3,7 @@
 This repository contains all the materials related to my **Universal Presence Sensor**, based on the **HLK-LD2410 radar sensor**.
 
 ![3D View of the Sensor](Pictures/3D_View_Top.png)  
+![Picture the Sensor](Pictures/First_Assembly.jpg)  
 
 ---
 
