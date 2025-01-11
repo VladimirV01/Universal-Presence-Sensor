@@ -88,5 +88,5 @@ At the time, affordable radar-based presence sensors were a rarity. By creating 
 - Power via Type C
 - Decrease the footprint
 - Revisit the case
-- Connect the radar sensor via UART to ESP
+- Make the case assembly snap in place without screws
 - Add ferrite beads on the power line to the PIR sensor to try and solve the false positives
