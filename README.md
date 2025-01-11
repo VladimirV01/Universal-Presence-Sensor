@@ -47,7 +47,7 @@ While searching for an alternative, I discovered the **HLK-LD2410 sensors** on A
 	- Can be used as input (Set the "CH1" jumper to "ADD" and configure it as input)
 	
 3. **Channel 2**
-	- Can be connected to the Radarr output (Set the "CH2" jumper "RAD")
+	- Can be connected to the Radar output (Set the "CH2" jumper "RAD")
 	- Can control a strip of addressable LED (Set the "CH2" jumper "ADD")
 	- Can control a strip of simple LED via PWM (Set the "CH2" jumper "PWM")
 	- Can be used as input (Set the "CH2" jumper to "ADD" and configure it as input)
@@ -88,5 +88,5 @@ At the time, affordable radar-based presence sensors were a rarity. By creating 
 - Power via Type C
 - Decrease the footprint
 - Revisit the case
-- Connect the radarr sensor via UART to ESP
+- Connect the radar sensor via UART to ESP
 - Add ferrite beads on the power line to the PIR sensor to try and solve the false positives
